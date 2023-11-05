@@ -1,3 +1,3 @@
 # CSA_Proj 
-This is the final project that I worked on in my AP Computer Science A class.
+This is my final project in AP Computer Science A.
 It uses the Java Graphics class, ActionListener, KeyListener, and MouseListener.
